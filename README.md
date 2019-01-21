@@ -1,2 +1,2 @@
 # ctf-repo
-The r epo for all CTF related th
+The repo for all the CTF related things I do.
